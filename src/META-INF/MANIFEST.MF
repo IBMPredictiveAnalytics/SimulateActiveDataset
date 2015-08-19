@@ -1,0 +1,14 @@
+Name: SimulateActiveDataset
+Dialog-Specs: SimulateActiveDataset.spd
+Summary: Generate a new dataset from variable distributions in the act
+ ive dataset
+Description: This custom dialog generates a new dataset based on the a
+ ctive dataset.  Distributions are fit to the selected variables, incl
+ uding cross-variable correlation and contingency tables.  Values are 
+ then drawn randomly from these distributions.
+Author: JKP, IBM SPSS
+Version: 1.0.4
+Product-Version: 22
+Date: 11/26/2013
+Categories: statistics, simulation
+Translation-Catalogues: lang
