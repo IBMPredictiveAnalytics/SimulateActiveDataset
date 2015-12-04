@@ -2,7 +2,7 @@
  "type": [ "Extension" ],
 "provider": [ "IBM" ],
 "software": [ "SPSS Statistics" ],
-"language": [ "SPSS" ],
+"language": [ "Native product" ],
 "category": [ "Data Manipulation" ],
 "promotion": [ "No" ] 
 }
