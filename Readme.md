@@ -1,6 +1,6 @@
 # SimulateActiveDataset
-## Generate a new dataset from variable distributions in the act
- This custom dialog generates a new dataset based on the a
+## Generate a new dataset from variable distributions in the active dataset
+ This custom dialog generates a new dataset based on the active dataset.  Distributions are fit to the selected variables, including cross-variable correlation and contingency tables.  Values are then drawn randomly from these distributions.
 
 ---
 Requirements
