@@ -1,4 +1,5 @@
 Name: SimulateActiveDataset
+Display-Name: Simulate active dataset
 Dialog-Specs: SimulateActiveDataset.spd
 Summary: Generate a new dataset from variable distributions in the act
  ive dataset
@@ -12,3 +13,4 @@ Product-Version: 22
 Date: 11/26/2013
 Categories: statistics, simulation
 Translation-Catalogues: lang
+Product-Version-Maximum: 99
